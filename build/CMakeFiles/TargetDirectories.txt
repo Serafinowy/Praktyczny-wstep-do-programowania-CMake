@@ -1,9 +1,0 @@
-C:/Users/pmich/OneDrive/Desktop/my_pwdp/build/CMakeFiles/edit_cache.dir
-C:/Users/pmich/OneDrive/Desktop/my_pwdp/build/CMakeFiles/rebuild_cache.dir
-C:/Users/pmich/OneDrive/Desktop/my_pwdp/build/lista1/CMakeFiles/lista1zadanie1.dir
-C:/Users/pmich/OneDrive/Desktop/my_pwdp/build/lista1/CMakeFiles/lista1zadanie2.dir
-C:/Users/pmich/OneDrive/Desktop/my_pwdp/build/lista1/CMakeFiles/edit_cache.dir
-C:/Users/pmich/OneDrive/Desktop/my_pwdp/build/lista1/CMakeFiles/rebuild_cache.dir
-C:/Users/pmich/OneDrive/Desktop/my_pwdp/build/lista2/CMakeFiles/lista2zadanie1.dir
-C:/Users/pmich/OneDrive/Desktop/my_pwdp/build/lista2/CMakeFiles/edit_cache.dir
-C:/Users/pmich/OneDrive/Desktop/my_pwdp/build/lista2/CMakeFiles/rebuild_cache.dir
