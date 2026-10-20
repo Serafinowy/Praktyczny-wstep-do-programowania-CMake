@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/pmich/OneDrive/Desktop/my_pwdp/build/lista1",
+  "command": "C:\\MyPrograms\\mingw64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\lista1zadanie1.dir\\zadanie1.cpp.obj -c C:\\Users\\pmich\\OneDrive\\Desktop\\my_pwdp\\lista1\\zadanie1.cpp",
+  "file": "C:/Users/pmich/OneDrive/Desktop/my_pwdp/lista1/zadanie1.cpp",
+  "output": "lista1/CMakeFiles/lista1zadanie1.dir/zadanie1.cpp.obj"
+},
+{
+  "directory": "C:/Users/pmich/OneDrive/Desktop/my_pwdp/build/lista1",
+  "command": "C:\\MyPrograms\\mingw64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\lista1zadanie2.dir\\zadanie2.cpp.obj -c C:\\Users\\pmich\\OneDrive\\Desktop\\my_pwdp\\lista1\\zadanie2.cpp",
+  "file": "C:/Users/pmich/OneDrive/Desktop/my_pwdp/lista1/zadanie2.cpp",
+  "output": "lista1/CMakeFiles/lista1zadanie2.dir/zadanie2.cpp.obj"
+},
+{
+  "directory": "C:/Users/pmich/OneDrive/Desktop/my_pwdp/build/lista2",
+  "command": "C:\\MyPrograms\\mingw64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\lista2zadanie1.dir\\zadanie1.cpp.obj -c C:\\Users\\pmich\\OneDrive\\Desktop\\my_pwdp\\lista2\\zadanie1.cpp",
+  "file": "C:/Users/pmich/OneDrive/Desktop/my_pwdp/lista2/zadanie1.cpp",
+  "output": "lista2/CMakeFiles/lista2zadanie1.dir/zadanie1.cpp.obj"
+}
+]

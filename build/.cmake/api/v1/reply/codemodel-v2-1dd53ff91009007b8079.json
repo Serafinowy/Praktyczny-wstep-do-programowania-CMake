@@ -1,0 +1,111 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : [],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-b5805d5c08fd3d92def4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "lista1",
+					"jsonFile" : "directory-lista1-Debug-5f13ffac5e758d3876d4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "lista1",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"build" : "lista2",
+					"jsonFile" : "directory-lista2-Debug-a2103ac6c8e38f8c05b8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "lista2",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "PWDP-Michna",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "lista1zadanie1::@bb4054f8ec3d030b71f9",
+					"jsonFile" : "target-lista1zadanie1-Debug-964855684d3dc2d55133.json",
+					"name" : "lista1zadanie1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "lista1zadanie2::@bb4054f8ec3d030b71f9",
+					"jsonFile" : "target-lista1zadanie2-Debug-00bacf2e40fcec136207.json",
+					"name" : "lista1zadanie2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "lista2zadanie1::@f1a09131ec4bc2cb094b",
+					"jsonFile" : "target-lista2zadanie1-Debug-31264e6f1325135849a0.json",
+					"name" : "lista2zadanie1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/pmich/OneDrive/Desktop/my_pwdp/build",
+		"source" : "C:/Users/pmich/OneDrive/Desktop/my_pwdp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	}
+}

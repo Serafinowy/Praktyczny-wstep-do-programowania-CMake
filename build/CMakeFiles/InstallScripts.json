@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/pmich/OneDrive/Desktop/my_pwdp/build/cmake_install.cmake",
+		"C:/Users/pmich/OneDrive/Desktop/my_pwdp/build/lista1/cmake_install.cmake",
+		"C:/Users/pmich/OneDrive/Desktop/my_pwdp/build/lista2/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

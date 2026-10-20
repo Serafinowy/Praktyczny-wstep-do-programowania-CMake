@@ -1,0 +1,3 @@
+C:\MyPrograms\mingw64\bin\cmake.exe -E rm -f CMakeFiles\lista1zadanie2.dir/objects.a
+C:\MyPrograms\mingw64\bin\ar.exe qc CMakeFiles\lista1zadanie2.dir/objects.a @CMakeFiles\lista1zadanie2.dir\objects1.rsp
+C:\MyPrograms\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\lista1zadanie2.dir/objects.a -Wl,--no-whole-archive -o lista1zadanie2.exe -Wl,--out-implib,liblista1zadanie2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lista1zadanie2.dir\linkLibs.rsp
